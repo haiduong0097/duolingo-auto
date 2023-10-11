@@ -521,6 +521,11 @@ function stopSolveChallenge() {
 }
 debugger;
 
+function callDuolingoDebug() {
+  debugger;
+  console.log("duongnh hello!");
+}
+
 /**
 https://www.duolingo.com/practice-hub
 solveChallenge()
